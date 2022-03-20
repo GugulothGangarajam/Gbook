@@ -1,0 +1,6 @@
+.storyReel {
+  display: flex;
+  position: relative;
+  left: -10px;
+  /* border: 1px solid red; */
+}
